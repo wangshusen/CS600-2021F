@@ -15,7 +15,9 @@ Description
 
 **Office Hours:**
 
-- Monday, 5:30-6:30 PM, Online or Gateway South 354
+- Monday, 5:30-6:30 PM, Online https://stevens.zoom.us/j/3867365789
+
+
 
 
 
@@ -60,8 +62,11 @@ Schedule
 
     * Insertion sort.
     
+    
+- Sep 6, Labor Day, No Class
 
-- Sep 6, Lecture 2
+
+- Sep 13, Lecture 2
     
     * Merge sort.
     
@@ -71,16 +76,8 @@ Schedule
     
     * Divide and conquer.
        
-    
-- Sep 13, Lecture 3
-    
-    * Matrix data structures.
-    
-    * Fast matrix multiplication.
-    
-    * Binary search trees.
-    
-    
+
+
 - Sep 19, 7:00 - 10:59 PM
 
 	* **Online Bonus Quiz** (on Canvas, auto-graded.)
@@ -92,14 +89,25 @@ Schedule
 	* Coverage: array, vector, list, skip list, divide-and-conquer.
     
     
-- Sep 20, Lecture 4
+    
+- Sep 20, Lecture 3
+    
+    * Matrix data structures.
+    
+    * Fast matrix multiplication.
+    
+    * Binary search trees.
+    
+    
+    
+- Sep 27, Lecture 4
     
     * Binary search trees (cont).
     
     * Priority queues.
     
     
-- Sep 27, **Online Quiz 1**, from 3 to 4 PM.
+- Oct 4, **Online Quiz 1**, from 3 to 4 PM.
 
 	* On Canvas, auto-graded.
 	
@@ -108,39 +116,33 @@ Schedule
 	* Coverage: from the beginning to binary search trees.
     
     
-- Sep 27, Lecture 5
+- Oct 4, Lecture 5
         
     * Disjoint sets.
     
     * Graph basics.
     
     
-- Oct 4, Lecture 6
+- Oct 11, No Class; Class Moved to Tuesday
+    
+    
+    
+- Oct 12, Lecture 6
     
     * Shortest path.
     
     * Spanning trees.
     
-    
-- Oct 11, Lecture 7
-    
-    * Spanning trees (cont.)
-    
+   
+- Oct 18, Lecture 7
+        
     * Network flow.
     
     
-- Oct 18, Lecture 8
+- Oct 25, Lecture 8
     
-    * Network flow (cont.)
     
     * Bipartite graphs.
-    
-    
-- Oct 25, Lecture 9
-    
-    * Bipartite graphs (cont.)
-    
-    * Dynamic programming.
     
     
 - Nov 1, **Online Quiz 2**, from 3:00 to 4:00 PM.
@@ -151,46 +153,50 @@ Schedule
 	
 	* Coverage: from heaps to network flows.
     
+    
+- Nov 1, Lecture 9
+    
+    * Dynamic programming 
+    
 
-- Nov 1, Lecture 10
+- Nov 8, Lecture 10
         
     * Dynamic programming (cont.)
     
     
-- Nov 8, Lecture 11
+- Nov 15, Lecture 11
     
     * Strings.
     
     
-- Nov 15, Lecture 12
+- Nov 22, Lecture 12
     
     * Randomized algorithms.
     
-    * Hashing.
+    
+- Nov 29, Lecture 13
+        
+    * Hashing
+    
+    * Cryptographic algorithms.
     
     
-- Nov 22, **Online Quiz 3**, from 3:00 to 4:00 PM.
+    
+- Dec 6, **Online Quiz 3**, from 3:00 to 4:00 PM.
 
 	* On Canvas, auto-graded.
 	
 	* Time limit: 45 minutes.
 	
-	* Coverage: from bipartite graphs to hashing basics.
-
+	* Coverage: from bipartite graphs to hashing.
+	
     
-- Nov 22, Lecture 13
-        
-    * Hashing (cont.)
-    
-    * Cryptographic algorithms.
-    
-    
-- Nov 29, Lecture 14
+- Dec 6, Lecture 14
     
     * Cryptographic algorithms (Cont.).
     
     
-- Dec 6, **Final Exam**, from 3:00 to 5:00 PM.
+- Dec 13, **Final Exam**, from 3:00 to 5:00 PM.
     
 
 
